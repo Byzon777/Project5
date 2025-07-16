@@ -37,6 +37,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='https://drive.google.com/uc?id=1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG' title='Video Demo' width='' alt='Video Demo' />
 ![Video Demo](https://drive.google.com/uc?export=view&id=<1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG>)
 
+<img src="https://drive.google.com/uc?export=view&id=<1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG>" alt="Video Demo" width="500">
+
 
 ## Notes
 
