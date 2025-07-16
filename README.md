@@ -34,9 +34,9 @@ My chosen API for this project is **NASA API**. https://api.nasa.gov/
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://drive.google.com/uc?id=1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://drive.google.com/uc?id=15QMdap8zX1aNwnvMlkmTNtcDEmejgD8m' title='Video Demo' width='' alt='Video Demo' />
 
-link to view demo: https://drive.google.com/file/d/1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG/view?usp=sharing
+link to view demo: https://drive.google.com/uc?id=15QMdap8zX1aNwnvMlkmTNtcDEmejgD8m
 
 ## Notes
 
