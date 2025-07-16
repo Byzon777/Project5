@@ -36,6 +36,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://drive.google.com/uc?id=1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG' title='Video Demo' width='' alt='Video Demo' />
 
+link to view demo: https://drive.google.com/file/d/1CSLykuY3fQfTXrqFoaZbucOfrRJXF1BG/view?usp=sharing
+
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
